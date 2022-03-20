@@ -129,15 +129,15 @@ Make sure all support material is removed before trying to fit the electronics i
 
 ### Dreamcast Video Plug
 
-<img src="./Pics/plugprep_01.jpg" width="200px" />
-<img src="./Pics/plugprep_02.jpg" width="200px" />
+<img src="./Pics/plugprep_01.jpg" width="400px" />
+<img src="./Pics/plugprep_02.jpg" width="400px" />
 
 The original Dreamcast video plug has a cross bar to prevent the pins from falling out. You need to extract it with a sider cutter or dental pick like shown in the picture.
 
 *IF* a pin falls out during the process, simply carefully push it back into its original place.
 
-<img src="./Pics/plugprep_03.jpg" width="200px" />
-<img src="./Pics/plugprep_04.jpg" width="200px" />
+<img src="./Pics/plugprep_03.jpg" width="400px" />
+<img src="./Pics/plugprep_04.jpg" width="400px" />
 
 Put the printed "Plug Helper" piece over the pins. Note the correct side of the slot. Then push it all the way into the back of the plug until it's flush.
 
