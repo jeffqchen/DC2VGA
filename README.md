@@ -135,7 +135,7 @@ The original Dreamcast video plug has a cross bar to prevent the pins from falli
 <img src="./Pics/plugprep_03.jpg" width="200px" />
 <img src="./Pics/plugprep_04.jpg" width="200px" />
 
-Then, put the printed "Plug Helper" piece over the pins and put it into the plug until it's flush.
+Put the printed "Plug Helper" piece over the pins. Note the correct side of the slot. Then push it all the way into the back of the plug until it's flush.
 
 This piece helps to maintain a leveled surface so the plug can be soldered to the PCB reliably.
 
