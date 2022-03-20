@@ -134,11 +134,9 @@ Make sure all support material is removed before trying to fit the electronics i
 ### Without A Shell
 
 
-<img src="./Pics/Asm_27.jpg" width="300px" />
-<img src="./Pics/Asm_28.jpg" width="300px" />
+<img src="./Pics/Asm_27.jpg" width="300px" /><img src="./Pics/Asm_28.jpg" width="300px" />
 
-
-Thanks to [Retro Gamer Stuff](https://twitter.com/RetroGamerStuff)'s suggestion, I've adopted righ-angle pin headers to interconnect the two PCBs with a very reliable connection. This means the internal assembly should be able to sustain even without a shell. It will be unsightly, but should be strong enough regardless.
+Thanks to [Retro Gamer Stuff](https://twitter.com/RetroGamerStuff)'s suggestion, I've adopted right-angle pin headers to interconnect the two PCBs with a very reliable connection. This means the internal assembly should be able to sustain even without a shell. It will be unsightly, but should be strong enough regardless.
 
 -----------
 
