@@ -185,7 +185,7 @@ Note the DC video plug should be perpendicular to the vertical PCB.
 
 <img src="./Pics/Asm_17.jpg" width="400px" />
 <img src="./Pics/Asm_18.jpg" width="400px" />
-
+ 
 There is an area of exposed copper next to the DC video plug. You can add some solder in this area to further strengthen the connection between the plug and the PCB. However it's only optional.
 
 
