@@ -74,7 +74,7 @@ PCB (You need both)
 - https://www.aliexpress.com/item/1005002983859846.html
 
 [1x] M2x20mm screw and hex nut
-- https://www.amazon.com/gp/product/B014OO5KQG
+- https://www.amazon.com/dp/B074FWP9HB
 
 2.54mm-Pitched Right Angle Pin Header (at least 11-pin wide)
 - Example: https://www.amazon.com/dp/B01461DQ6S/
@@ -95,13 +95,13 @@ PCB (You need both)
 
 **R5 and R6** can have different configurations. Choose one from the following:
 - For 0.6V Vpp CSync: (common attenuation CSync level)
- - R5 25 Ohm
- - R6 680 Ohm
+   - R5 25 Ohm
+   - R6 680 Ohm
 
 
 - For 0.3V Vpp CSync: (SCART-safe sync level)
- - R5 75 Ohm
- - R6 1K Ohm
+   - R5 75 Ohm
+   - R6 1K Ohm
 
 #### On Horizontal Board
 - C1 C2: 10uF / 6.3V
