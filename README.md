@@ -195,7 +195,7 @@ Inspect the other side and make sure the vias are filled by solder. If not, heat
 
 <img src="./Pics/Asm_10.jpg" width="400px" />
 
-Now, fit the completed internal into the bottom shell, then put the top shell over it and close it up.
+Now, fit the completed internals into the bottom shell, then put the top shell over it and close it up.
 
 <img src="./Pics/03.jpg" width="400px" />
 
