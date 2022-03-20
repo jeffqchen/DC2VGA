@@ -113,7 +113,11 @@ PCB (You need both)
 
 Print all parts in their original orientations.
 
+<img src="./Pics/3dprint_01.jpg" width="400px" />
+
 The shells are printed on the 3.5mm port side to give it a flat surface on that side and better details on the top.
+
+<img src="./Pics/3dprint_02.jpg" width="400px" />
 
 Try using tree support as it's easier to extract and leaves less damage to up-facing surfaces below supported surfaces.
 
