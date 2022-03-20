@@ -161,7 +161,7 @@ Cut a section of the pin header with 11 pins. Fit the bent end onto the horizont
 
 You can adjust the pin header by melting the two ends. Make sure the straight part of the pin header is parallel to the PCB as much as possible.
 
-Now start trimming out the extra length of the bent end. Make it as flush as possible to the PCB. Do the middle pins first, then solder the flush pins to the PCB.
+Now start trimming out the extra length of the pins on the bent end. Make it as flush as possible to the PCB. Do the unsoldered pins in the middle first, then solder the flush pins to the PCB.
 
 <img src="./Pics/Asm_04.jpg" width="400px" />
 
