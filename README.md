@@ -2,7 +2,7 @@
 
 <img src="./Pics/01.jpg" width="400px" />
 
-An SD/VGA RGBs/RGBHV Switchable Dongle for Sega Dreamcast.
+An SD/VGA RGBS/RGBHV Switchable Dongle for Sega Dreamcast.
 
 This belongs to my [series of VGA adapters](https://github.com/jeffqchen/Console-VGA-Dongle-Series) for various retro consoles and video equipments.
 
