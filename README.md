@@ -35,7 +35,7 @@ I have tested this dongle with various devices:
 
 The No ones are mostly device limitations and not a problem with the dongle itself.
 
-The Yes* ones means they only work when they went through an Extron switch. It's probably that the switch reconditioned the signals in some way to overcome the limitations of these devices and made things work. A direct connection does not work in these cases and it's expected.
+The Yes* ones means they only work when the signal first went through an Extron switch. It's probably that the switch reconditioned the signals in some way to overcome the limitations of these devices and made things work. A direct connection does not work in these cases and it's expected.
 
 The only real compatibility issue I've encountered so far, is **VGA** mode + **CSync** on Sony BVM D series. This BVM doesn't like combined CSync and will not display it properly. **However it will work properly in SD mode.**
 
