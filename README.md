@@ -94,7 +94,7 @@ PCB (You need both)
 - **R3 R4**: 10K Ohm
 
 **R5 and R6** can have different configurations. Choose one from the following:
-- For 0.6V Vpp CSync: (common attenuation CSync level)
+- For 0.6V Vpp CSync: (common attenuated CSync level)
    - R5 25 Ohm
    - R6 680 Ohm
 
