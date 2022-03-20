@@ -37,8 +37,9 @@ The only compatibility issue I've encountered so far, is **VGA** mode + **CSync*
 #### *VGA Trick*
 
 <img src="./Pics/trick.jpg" width="400px" />
-(Bust-A-Move 4 tricked into run in VGA mode)
-&nbsp;
+
+*(Bust-A-Move 4 tricked into run in VGA mode)*
+
 Some games that require an SD cable can be forced into VGA mode by toggling the top switch from SD to VGA, right after booting up the game (at the VMU beep or right after game started from the ODE).
 
 ### Audio
