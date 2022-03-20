@@ -153,7 +153,7 @@ Trim extra tabs sticking outside from the PCB outline with a side-cutter and fil
 
 Populate the horizontal and vertical PCBs with all of the SMD components first.
 
-Solder in the Dreamcast video plug and the switches onto the vertical board.
+Solder in the Dreamcast video plug and the switches onto the "DC Side" of the vertical board.
 
 <img src="./Pics/Asm_03.jpg" width="400px" />
 
