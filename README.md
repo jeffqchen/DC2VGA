@@ -11,6 +11,7 @@ This belongs to my [series of VGA adapters](https://github.com/jeffqchen/Console
 This adapter plugs into the AV OUT port on a Sega Dreamcast and allows you to out put RGBS or RGBHV video signal, as well as a stereo audio signal.
 
 ------------
+## Usage
 
 ### Toggling Modes
 
@@ -27,12 +28,18 @@ I have tested this dongle with various devices:
 |              | SD+CSync | VGA+CSync | SD+HV  | VGA+HV    |
 |--------------|----------|-----------|--------|-----------|
 | RetroTINK 5X | **Yes**  | **Yes**   | No     | No        |
-| OSSC         | **Yes**  | **Yes**   | **Yes**| **Yes**   |
-| GBS Control  | **Yes**  | **Yes**   | No     | No        |
+| OSSC (AV3)   | Yes*     | **Yes**   | **Yes**| **Yes**   |
+| GBS Control  | **Yes**  | **Yes**   | Yes*   | Yes*      |
 | PVM/BVM      | **Yes**  | *Unsure*  | No     | No        |
 | PC Monitors  | No       | No        | No     | **Yes**   |
 
-The only compatibility issue I've encountered so far, is **VGA** mode + **CSync** on Sony BVM D series. This BVM doesn't like combined CSync and will not display it properly. **However it will work properly in SD mode.**
+The No ones are mostly device limitations and not a problem with the dongle itself.
+
+The Yes* ones means they only work when they went through an Extron switch. It's probably that the switch reconditioned the signals in some way to overcome the limitations of these devices and made things work. A direct connection does not work in these cases and it's expected.
+
+The only real compatibility issue I've encountered so far, is **VGA** mode + **CSync** on Sony BVM D series. This BVM doesn't like combined CSync and will not display it properly. **However it will work properly in SD mode.**
+
+
 
 #### *VGA Trick*
 
@@ -81,7 +88,7 @@ PCB (You need both)
 - Example: https://www.amazon.com/dp/B01461DQ6S/
 
 
-### SMD Components:
+### SMD Components
 
 *All SMD resistors and capacitors are in imperial 0603 size unless specified otherwise*
 
@@ -122,6 +129,11 @@ The shells are printed on the 3.5mm port side to give it a flat surface on that 
 Try using tree support as it's easier to extract and leaves less damage to up-facing surfaces below supported surfaces.
 
 Make sure all support material is removed before trying to fit the electronics inside, as there is zero space to spare inside.
+
+
+### Without A Shell
+
+Thanks to [Retro Gamer Stuff](https://twitter.com/RetroGamerStuff)'s suggestion, I've adopted righ-angle pin headers to interconnect the two PCBs with a very reliable connection. This means the internal assembly should be able to sustain even without a shell. It will be unsightly, but should be strong enough regardless.
 
 -----------
 
@@ -222,3 +234,9 @@ HDRetrovision
 
 Javier Rodas
 - Twitter: https://twitter.com/JaviRodasG
+
+Robert Neumann
+- Twitter: https://twitter.com/_ramapcsx2
+
+Retro Gamer Stuff (Bad_Ad84)
+- https://twitter.com/RetroGamerStuff
