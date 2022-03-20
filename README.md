@@ -146,8 +146,7 @@ Thanks to [Retro Gamer Stuff](https://twitter.com/RetroGamerStuff)'s suggestion,
 
 ### Dreamcast Video Plug
 
-<img src="./Pics/plugprep_01.jpg" width="400px" />
-<img src="./Pics/plugprep_02.jpg" width="400px" />
+<img src="./Pics/plugprep_01.jpg" width="300px" /><img src="./Pics/plugprep_02.jpg" width="300px" />
 <img src="./Pics/Asm_12.jpg" width="400px" />
 
 The original Dreamcast video plug has a cross bar to prevent the pins from falling out. You need to extract it with a side cutter or dental pick like shown in the picture. Try prying from the center of the bar so it lifts cleanly.
@@ -171,9 +170,7 @@ Trim extra tabs sticking outside from the PCB outline with a side-cutter and fil
 
 ## Assembly
 
-<img src="./Pics/Asm_02.jpg" width="400px" />
-
-<img src="./Pics/Asm_11.jpg" width="400px" />
+<img src="./Pics/Asm_02.jpg" width="300px" /><img src="./Pics/Asm_11.jpg" width="300px" />
 
 Populate the horizontal and vertical PCBs with all of the SMD components first.
 
@@ -183,9 +180,8 @@ Solder in the Dreamcast video plug and the switches onto the "DC Side" of the ve
 
 Note the DC video plug should be perpendicular to the vertical PCB.
 
-<img src="./Pics/Asm_17.jpg" width="400px" />
-<img src="./Pics/Asm_18.jpg" width="400px" />
- 
+<img src="./Pics/Asm_17.jpg" width="400px" /><img src="./Pics/Asm_18.jpg" width="400px" />
+
 There is an area of exposed copper next to the DC video plug. You can add some solder in this area to further strengthen the connection between the plug and the PCB. However it's only optional.
 
 
@@ -208,15 +204,12 @@ Using a cutter, cut and remove the black plastic piece that holds all the pins t
 
 Now solder in the VGA and 3.5mm port tightly onto the horizontal PCB.
 
-<img src="./Pics/Asm_21.jpg" width="400px" />
-<img src="./Pics/Asm_22.jpg" width="400px" />
-<img src="./Pics/Asm_23.jpg" width="400px" />
-<img src="./Pics/Asm_24.jpg" width="400px" />
+<img src="./Pics/Asm_21.jpg" width="400px" /><img src="./Pics/Asm_22.jpg" width="400px" />
+<img src="./Pics/Asm_23.jpg" width="400px" /><img src="./Pics/Asm_24.jpg" width="400px" />
 
 Trim the 3 pins that would be blocked by the toggle switch. Refer to the photos for an easier way to get it done.
 
-<img src="./Pics/Asm_25.jpg" width="400px" />
-<img src="./Pics/Asm_26.jpg" width="400px" />
+<img src="./Pics/Asm_25.jpg" width="400px" /><img src="./Pics/Asm_26.jpg" width="400px" />
 
 Temporarily fit the entire assembly into the top shell. Position the PCBs so the 3.5mm port and VGA port fits into the cutouts on the top shell snugly, and the vertical PCB is as vertical as possible.
 
