@@ -86,13 +86,13 @@ PCB (You need both)
 *All SMD resistors and capacitors are in imperial 0603 size unless specified otherwise*
 
 #### On Vertical Board
-- 4-Channel XOR Logic Gate, 14TSSOP (MC74HC86ADTR2G)
+- **U1**: [1x] 4-Channel XOR Logic Gate, 14TSSOP (MC74HC86ADTR2G)
  - Example: https://www.digikey.com/en/products/detail/MC74HC86ADTR2G/MC74HC86ADTR2GOSCT-ND/3487361
 - **C1 C2 C3**: [3x] 220uF / 6.3V / **Imperial 1206 Size**
-- **C4**: 0.1uF / 10V
-- **C5 C6**: 1uF / 10V
-- **R1 R2**: 150 Ohm
-- **R3 R4**: 10K Ohm
+- **C4**: [1x] 0.1uF / 10V
+- **C5 C6**: [2x] ]1uF / 10V
+- **R1 R2**: [2x] 150 Ohm
+- **R3 R4**: [2x] 10K Ohm
 
 **R5 and R6** can have different configurations. Choose one from the following:
 - For 0.6V Vpp CSync: (common attenuated CSync level)
@@ -105,7 +105,7 @@ PCB (You need both)
    - R6 1K Ohm
 
 #### On Horizontal Board
-- C1 C2: 10uF / 6.3V
+- C1 C2: [2x] 10uF / 6.3V
 
 -----------
 
