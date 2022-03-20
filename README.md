@@ -1,12 +1,12 @@
 # DC2VGA
 
-<img src="./Pics/01.jpg" width="400px" />
+<img src="./Pics/01.jpg" width="800px" />
 
 An SD/VGA RGBS/RGBHV Switchable Dongle for Sega Dreamcast.
 
 This belongs to my [series of VGA adapters](https://github.com/jeffqchen/Console-VGA-Dongle-Series) for various retro consoles and video equipments.
 
-<img src="./Pics/02.jpg" width="400px" />
+<img src="./Pics/02.jpg" width="800px" />
 
 This adapter plugs into the AV OUT port on a Sega Dreamcast and allows you to out put RGBS or RGBHV video signal, as well as a stereo audio signal.
 
