@@ -183,6 +183,8 @@ Trim the 3 pins that would be blocked by the toggle switch, so you can temporari
 
 Position the PCBs so the 3.5mm port and VGA port fits into the cutouts on the top shell snugly, and the vertical PCB is as vertical as possible. Then, solder the 3 trimmed pins and the one on the other end, to fix the assembly.
 
+Take the assembly out of the 3D printed shell. We do NOT want to do a lot of soldering when the assembly is inside the shell, or the heat may damage it.
+
 <img src="./Pics/Asm_08.jpg" width="400px" />
 
 Go on and trim all the rest of the excessive straight pins and solder them in place. Feed an ample amount of solder and heat up the pin long enough so the solder could seep into the vias on the vertical PCB.
