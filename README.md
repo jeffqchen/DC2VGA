@@ -19,7 +19,7 @@ There are two independent toggle switches on this dongle for choosing different 
 
 <img src="./Pics/03.jpg" width="400px" />
 
-- SD / VGA allows you to choose between 525i and 525p RGB output
+- SD / VGA allows you to choose between 525i (SD) and 525p (VGA) RGB output
 - CSYNC / HV allows you to choose between attenuated CSync and 3.3V H/V-Sync
 
 I have tested this dongle with various devices:
