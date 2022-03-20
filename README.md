@@ -96,13 +96,13 @@ PCB (You need both)
 
 **R5 and R6** can have different configurations. Choose one from the following:
 - For 0.6V Vpp CSync: (common attenuated CSync level)
-   - R5 25 Ohm
-   - R6 680 Ohm
+   - R5: 25 Ohm
+   - R6: 680 Ohm
 
 
 - For 0.3V Vpp CSync: (SCART-safe sync level)
-   - R5 75 Ohm
-   - R6 1K Ohm
+   - R5: 75 Ohm
+   - R6: 1K Ohm
 
 #### On Horizontal Board
 - C1 C2: [2x] 10uF / 6.3V
