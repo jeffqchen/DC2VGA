@@ -29,7 +29,7 @@ I have tested this dongle with various devices:
 | RetroTINK 5X | **Yes**  | **Yes**   | No     | No        |
 | OSSC         | **Yes**  | **Yes**   | **Yes**| **Yes**   |
 | GBS Control  | **Yes**  | **Yes**   | No     | No        |
-| PVM/BVM      | **Yes**  | No        | No     | No        |
+| PVM/BVM      | **Yes**  | *Unsure*  | No     | No        |
 | PC Monitors  | No       | No        | No     | **Yes**   |
 
 The only compatibility issue I've encountered so far, is **VGA** mode + **CSync** on Sony BVM D series. This BVM doesn't like combined CSync and will not display it properly. **However it will work properly in SD mode.**
