@@ -18,7 +18,7 @@ This adapter plugs into the AV OUT port on a Sega Dreamcast and allows you to ou
 
 There are two independent toggle switches on this dongle for choosing different modes.
 
-<img src="./Pics/03.jpg" width="400px" />
+<img src="./Pics/03.jpg" width="800px" />
 
 - SD / VGA allows you to choose between 525i (SD) and 525p (VGA) RGB output
 - CSYNC / HV allows you to choose between attenuated CSync and 3.3V H/V-Sync
@@ -43,7 +43,7 @@ The only real compatibility issue I've encountered so far, is **VGA** mode + **C
 
 #### *VGA Trick*
 
-<img src="./Pics/trick.jpg" width="400px" />
+<img src="./Pics/trick.jpg" width="800px" />
 
 *(Bust-A-Move 4 tricked into run in VGA mode)*
 
@@ -120,11 +120,11 @@ PCB (You need both)
 
 Print all parts in their original orientations.
 
-<img src="./Pics/3dprint_01.jpg" width="400px" />
+<img src="./Pics/3dprint_01.jpg" width="600px" />
 
 The shells are printed on the 3.5mm port side to give it a flat surface on that side and better details on the top.
 
-<img src="./Pics/3dprint_02.jpg" width="400px" />
+<img src="./Pics/3dprint_02.jpg" width="600px" />
 
 Try using tree support as it's easier to extract and leaves less damage to up-facing surfaces below supported surfaces.
 
