@@ -132,7 +132,7 @@ Make sure all support material is removed before trying to fit the electronics i
 <img src="./Pics/plugprep_01.jpg" width="400px" />
 <img src="./Pics/plugprep_02.jpg" width="400px" />
 
-The original Dreamcast video plug has a cross bar to prevent the pins from falling out. You need to extract it with a sider cutter or dental pick like shown in the picture.
+The original Dreamcast video plug has a cross bar to prevent the pins from falling out. You need to extract it with a side cutter or dental pick like shown in the picture.
 
 *IF* a pin falls out during the process, simply carefully push it back into its original place.
 
