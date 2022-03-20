@@ -133,6 +133,11 @@ Make sure all support material is removed before trying to fit the electronics i
 
 ### Without A Shell
 
+
+<img src="./Pics/Asm_27.jpg" width="300px" />
+<img src="./Pics/Asm_28.jpg" width="300px" />
+
+
 Thanks to [Retro Gamer Stuff](https://twitter.com/RetroGamerStuff)'s suggestion, I've adopted righ-angle pin headers to interconnect the two PCBs with a very reliable connection. This means the internal assembly should be able to sustain even without a shell. It will be unsightly, but should be strong enough regardless.
 
 -----------
@@ -143,13 +148,14 @@ Thanks to [Retro Gamer Stuff](https://twitter.com/RetroGamerStuff)'s suggestion,
 
 <img src="./Pics/plugprep_01.jpg" width="400px" />
 <img src="./Pics/plugprep_02.jpg" width="400px" />
+<img src="./Pics/Asm_12.jpg" width="400px" />
 
-The original Dreamcast video plug has a cross bar to prevent the pins from falling out. You need to extract it with a side cutter or dental pick like shown in the picture.
+The original Dreamcast video plug has a cross bar to prevent the pins from falling out. You need to extract it with a side cutter or dental pick like shown in the picture. Try prying from the center of the bar so it lifts cleanly.
 
 *IF* a pin falls out during the process, simply carefully push it back into its original place.
 
-<img src="./Pics/plugprep_03.jpg" width="400px" />
-<img src="./Pics/plugprep_04.jpg" width="400px" />
+<img src="./Pics/plugprep_03.jpg" width="300px" /><img src="./Pics/plugprep_04.jpg" width="300px" />
+<img src="./Pics/Asm_13.jpg" width="300px" /><img src="./Pics/Asm_14.jpg" width="300px" />
 
 Put the printed "Plug Helper" piece over the pins. Note the correct side of the slot. Then push it all the way into the back of the plug until it's flush.
 
@@ -167,33 +173,56 @@ Trim extra tabs sticking outside from the PCB outline with a side-cutter and fil
 
 <img src="./Pics/Asm_02.jpg" width="400px" />
 
+<img src="./Pics/Asm_11.jpg" width="400px" />
+
 Populate the horizontal and vertical PCBs with all of the SMD components first.
+
+<img src="./Pics/Asm_15.jpg" width="300px" /><img src="./Pics/Asm_16.jpg" width="300px" />
 
 Solder in the Dreamcast video plug and the switches onto the "DC Side" of the vertical board.
 
-<img src="./Pics/Asm_03.jpg" width="400px" />
+Note the DC video plug should be perpendicular to the vertical PCB.
+
+<img src="./Pics/Asm_17.jpg" width="400px" />
+<img src="./Pics/Asm_18.jpg" width="400px" />
+
+There is an area of exposed copper next to the DC video plug. You can add some solder in this area to further strengthen the connection between the plug and the PCB. However it's only optional.
+
+
+<img src="./Pics/Asm_19.jpg" width="300px" /><img src="./Pics/Asm_03.jpg" width="300px" />
 
 Cut a section of the pin header with 11 pins. Fit the bent end onto the horizontal PCB from the bottom side, as close as possible. Then solder in the two ends first.
 
 You can adjust the pin header by melting the two ends. Make sure the straight part of the pin header is parallel to the PCB as much as possible.
 
-Now start trimming out the extra length of the pins on the bent end. Make it as flush as possible to the PCB. Do the unsoldered pins in the middle first, then solder the flush pins to the PCB.
-
 <img src="./Pics/Asm_04.jpg" width="400px" />
+
+Now start trimming out the extra length of the pins on the bent end. Make it as flush as possible to the PCB. Do the unsoldered pins in the middle first, then solder the flush pins to the PCB.
 
 Lastly, suck up any excessive solder from the two end pins, and then trim them flush as well.
 
-<img src="./Pics/Asm_05.jpg" width="300px" /><img src="./Pics/Asm_06.jpg" width="300px" />
+<img src="./Pics/Asm_05.jpg" width="300px" /><img src="./Pics/Asm_20.jpg" width="300px" />
+<img src="./Pics/Asm_06.jpg" width="300px" />
 
 Using a cutter, cut and remove the black plastic piece that holds all the pins together. Try cutting in with a light angle so the cuts reach the pins for an easy removal.
 
 Now solder in the VGA and 3.5mm port tightly onto the horizontal PCB.
 
-Trim the 3 pins that would be blocked by the toggle switch, so you can temporarily fit the entire assembly into the top shell.
+<img src="./Pics/Asm_21.jpg" width="400px" />
+<img src="./Pics/Asm_22.jpg" width="400px" />
+<img src="./Pics/Asm_23.jpg" width="400px" />
+<img src="./Pics/Asm_24.jpg" width="400px" />
+
+Trim the 3 pins that would be blocked by the toggle switch. Refer to the photos for an easier way to get it done.
+
+<img src="./Pics/Asm_25.jpg" width="400px" />
+<img src="./Pics/Asm_26.jpg" width="400px" />
+
+Temporarily fit the entire assembly into the top shell. Position the PCBs so the 3.5mm port and VGA port fits into the cutouts on the top shell snugly, and the vertical PCB is as vertical as possible.
 
 <img src="./Pics/Asm_07.jpg" width="400px" />
 
-Position the PCBs so the 3.5mm port and VGA port fits into the cutouts on the top shell snugly, and the vertical PCB is as vertical as possible. Then, solder the 3 trimmed pins and the one on the other end, to fix the assembly.
+ Solder the 3 trimmed pins and the one on the other end, to hold the assembly together.
 
 Take the assembly out of the 3D printed shell. We do NOT want to do a lot of soldering when the assembly is inside the shell, or the heat may damage it.
 
