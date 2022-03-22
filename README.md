@@ -95,7 +95,7 @@ PCB (You need both)
 #### On Vertical Board
 - **U1**: [1x] 4-Channel XOR Logic Gate, 14TSSOP (MC74HC86ADTR2G)
  * Example: https://www.digikey.com/en/products/detail/MC74HC86ADTR2G/MC74HC86ADTR2GOSCT-ND/3487361
-- **C1 C2 C3**: [3x] 220uF / 6.3V / **Imperial 1206 Size** [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
+- **C1 C2 C3**: [3x] 220uF / 6.3V / **Imperial 1206 Size** - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)]
 - **C4**: [1x] 0.1uF / 10V
 - **C5 C6**: [2x] ]1uF / 10V
 - **R1 R2**: [2x] 150 Ohm
