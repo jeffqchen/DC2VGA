@@ -63,29 +63,23 @@ Light guns work if you output to a CRT display (TV and PC monitor).
 
  ## Parts
 
-PCB (You need both)
-- Vertical PCB: https://oshpark.com/shared_projects/WcKgCnij
-- Horizontal PCB: https://oshpark.com/shared_projects/jPAbQ0ej
+- PCB (You need both)
+ - [Vertical PCB](https://oshpark.com/shared_projects/WcKgCnij)
+ - [Horizontal PCB](https://oshpark.com/shared_projects/jPAbQ0ej)
 
-[1x] Dreamcast AV Plugs
-- [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
+- [1x] Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
 
-[2x] Toggle Switches (SW1 & SW2):
-- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/EG2208%20Toggle%20Switch/info.md)
+- [2x] Toggle Switches (SW1 & SW2) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/EG2208%20Toggle%20Switch/info.md)
 
 *If you want slightly longer switch stems, use **EG2208A** instead.*
 
-[1x] VGA Port Slim Female
-- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
+- [1x] VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
-[1x] 3.5mm Headphone Jack PJ-325
-- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
+- [1x] 3.5mm Headphone Jack PJ-325 - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
-[1x] M2x20mm screw and hex nut
-- [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
+- [1x] M2x20mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-2.54mm-Pitched Right Angle Pin Header (at least 11-pin wide)
-- [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/2.54mm%20Right-Angle%20Pin%20Header/info.md)
+- 2.54mm-Pitched Right Angle Pin Header (at least 11-pin wide) - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/2.54mm%20Right-Angle%20Pin%20Header/info.md)
 
 
 ### SMD Components
@@ -93,8 +87,7 @@ PCB (You need both)
 *All SMD resistors and capacitors are in imperial 0603 size unless specified otherwise*
 
 #### On Vertical Board
-- **U1**: [1x] 4-Channel XOR Logic Gate, 14TSSOP (MC74HC86ADTR2G)
- * Example: https://www.digikey.com/en/products/detail/MC74HC86ADTR2G/MC74HC86ADTR2GOSCT-ND/3487361
+- **U1**: [1x] 4-Channel XOR Logic Gate, 14TSSOP [[MC74HC86ADTR2G](https://www.digikey.com/en/products/detail/MC74HC86ADTR2G/MC74HC86ADTR2GOSCT-ND/3487361)]
 - **C1 C2 C3**: [3x] 220uF / 6.3V / **Imperial 1206 Size** - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)]
 - **C4**: [1x] 0.1uF / 10V
 - **C5 C6**: [2x] ]1uF / 10V
