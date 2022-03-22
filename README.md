@@ -71,15 +71,15 @@ PCB (You need both)
 - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
 
 [2x] Toggle Switches (SW1 & SW2):
-- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/EG2208%20Toggle%20Switch)
+- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/EG2208%20Toggle%20Switch/info.md)
 
 *If you want slightly longer switch stems, use **EG2208A** instead.*
 
 [1x] VGA Port Slim Female
-- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole)
+- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
 [1x] 3.5mm Headphone Jack PJ-325
-- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack)
+- [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
 [1x] M2x20mm screw and hex nut
 - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
