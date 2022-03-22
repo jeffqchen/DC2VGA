@@ -82,7 +82,7 @@ PCB (You need both)
 - https://www.aliexpress.com/item/1005002983859846.html
 
 [1x] M2x20mm screw and hex nut
-- https://www.amazon.com/dp/B074FWP9HB
+- https://www.amazon.com/dp/B014ONS02S
 
 2.54mm-Pitched Right Angle Pin Header (at least 11-pin wide)
 - Example: https://www.amazon.com/dp/B01461DQ6S/
