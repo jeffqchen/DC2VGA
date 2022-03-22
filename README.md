@@ -79,7 +79,7 @@ Light guns work if you output to a CRT display (TV and PC monitor).
 
 - [1x] M2x20mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-- 2.54mm-Pitched Right Angle Pin Header (at least 11-pin wide) - [Link]((https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Right-Angle/info.md))
+- 2.54mm-Pitched Right Angle Pin Header (at least 11-pin wide) - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Right-Angle/info.md)
 
 
 ### SMD Components
