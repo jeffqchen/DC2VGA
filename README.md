@@ -64,8 +64,8 @@ Light guns work if you output to a CRT display (TV and PC monitor).
  ## Parts
 
 - PCB (You need both)
- - [Vertical PCB](https://oshpark.com/shared_projects/WcKgCnij)
- - [Horizontal PCB](https://oshpark.com/shared_projects/jPAbQ0ej)
+  - [Vertical PCB](https://oshpark.com/shared_projects/WcKgCnij)
+  - [Horizontal PCB](https://oshpark.com/shared_projects/jPAbQ0ej)
 
 - [1x] Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
 
@@ -96,13 +96,13 @@ Light guns work if you output to a CRT display (TV and PC monitor).
 
 **R5 and R6** can have different configurations. Choose one from the following:
 - For 0.6V Vpp CSync: (common attenuated CSync level)
-   - R5: 25 Ohm
-   - R6: 680 Ohm
+  - R5: 25 Ohm
+  - R6: 680 Ohm
 
 
 - For 0.3V Vpp CSync: (SCART-safe sync level)
-   - R5: 75 Ohm
-   - R6: 1K Ohm
+  - R5: 75 Ohm
+  - R6: 1K Ohm
 
 #### On Horizontal Board
 - C1 C2: [2x] 10uF / 6.3V
