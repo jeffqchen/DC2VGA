@@ -73,7 +73,7 @@ Light guns work if you output to a CRT display (TV and PC monitor).
 
 *If you want slightly longer switch stems, use **EG2208A** instead.*
 
-- [1x] VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
+- [1x] VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
 - [1x] 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Vertical%205-Pin%20PCB/info.md)
 
