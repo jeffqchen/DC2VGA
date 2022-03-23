@@ -71,7 +71,7 @@ Light guns work if you output to a CRT display (TV and PC monitor).
 
 - [2x] Toggle Switches (SW1 & SW2) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2208%20Toggle%20Switch/info.md)
   - *If you want slightly longer switch stems, use **EG2208A** instead.*
-  
+
 
 - [1x] VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
@@ -87,7 +87,8 @@ Light guns work if you output to a CRT display (TV and PC monitor).
 *All SMD resistors and capacitors are in imperial 0603 size unless specified otherwise*
 
 #### On Vertical Board
-- **U1**: [1x] 4-Channel XOR Logic Gate, 14TSSOP - MC74HC86ADTR2G Quad XOR Gate - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/MC74HC86ADTR2G%20Quad%20XOR%20Gate/info.md)]
+- **U1**: [1x] 4-Channel XOR Logic Gate, 14TSSOP
+  - MC74HC86ADTR2G Quad XOR Gate - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/MC74HC86ADTR2G%20Quad%20XOR%20Gate/info.md)]
 - **C1 C2 C3**: [3x] 220uF / 6.3V / **Imperial 1206 Size** - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)]
 - **C4**: [1x] 0.1uF / 10V
 - **C5 C6**: [2x] ]1uF / 10V
