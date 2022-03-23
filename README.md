@@ -70,8 +70,8 @@ Light guns work if you output to a CRT display (TV and PC monitor).
 - [1x] Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
 
 - [2x] Toggle Switches (SW1 & SW2) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2208%20Toggle%20Switch/info.md)
-
-*If you want slightly longer switch stems, use **EG2208A** instead.*
+  - *If you want slightly longer switch stems, use **EG2208A** instead.*
+  
 
 - [1x] VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
