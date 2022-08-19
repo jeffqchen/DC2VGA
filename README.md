@@ -242,7 +242,9 @@ This issue was anticipated and since in most cases, you would not run into any i
 
 #### Proper Sync Combining
 
-Instead, you may look into Extron's RGB 19X line of product. They feature proper sync combining with serration and this will fix the CSync issue IF your device refuse to work with the rough method. And at the moment, it's only listed for around $30 on eBay. It's a very good value in my personal opinion.
+However, if you are stuck with a display that absolutely require proper sync combining, you may look into Extron's RGB 19X line of product.
+
+They feature proper sync combining with serration. This will fix the CSync issue IF your device refuse to work with the rough method. At this moment, it's only listed for around $30 on eBay. It's a very good value in my personal opinion, as this device can work with a various range of VGA devices and resolutions.
 
 <img src="./Pics/rgb192-lg.jpg" width="400px" />
 
