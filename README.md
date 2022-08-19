@@ -240,7 +240,7 @@ When set to VGA mode **AND** CSync, the circuit inside uses an XOR logic chip to
 
 This issue was anticipated and since in most cases, you would not run into any issue, I opted to not dig deeper and further complicate the design.
 
-#### Proper Sync Combinig
+#### Proper Sync Combining
 
 Instead, you may look into Extron's RGB 19X line of product. They feature proper sync combining with serration and this will fix the CSync issue IF your device refuse to work with the rough method. And at the moment, it's only listed for around $30 on eBay. It's a very good value in my personal opinion.
 
