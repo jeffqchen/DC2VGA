@@ -253,6 +253,8 @@ Set the DC2VGA to "HV" mode, connect the VGA cable to the Extron RGB, set SERR a
 <img src="./Pics/extron_01.jpg" width="400px" />
 <img src="./Pics/extron_02.jpg" width="400px" />
 
+*The audio adapter in the 2nd photo is my [Extron Audio 3.5mm Adapter](https://github.com/jeffqchen/Extron-Audio-3.5mm-Adapter).*
+
 ### OSSC AV3 Input Limitations
 
 The AV3 input on the OSSC require clean TTL-level sync signals. However the native CSync output from the Dreamcast is an attenuated one. This signal does not work with the OSSC and is expected.
